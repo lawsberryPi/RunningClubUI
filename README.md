@@ -1,13 +1,15 @@
-# Getting Started with this React App
-npm install
-npm run start
+!["React sidebar with dropdown menu"](https://user-images.githubusercontent.com/67447840/200093301-c5560000-3d09-4f21-b94d-50d2071d09dd.png "React sidebar with dropdown menu")
 
+# Video tutorial
 
-## Things can be improved:
-Token storage
-Password scrambling
+    https://youtu.be/XwnZLgIfIvg
 
-## Key Consideration
-To ensure scalability, it's important to design components with reusability in mind. This means that components should be focused, small, and independent. They should also be easy to customize and extend
+# Reference
 
-Why hook: With Hooks, you can extract stateful logic from a component so it can be tested independently and reused. Hooks allow you to reuse stateful logic without changing your component hierarchy. 
+    - Create react app:https://create-react-app.dev/
+    - Material-UI: https://mui.com/
+    - React-router: https://reactrouter.com/
+
+# Preview
+
+!["React sidebar with dropdown menu"](https://user-images.githubusercontent.com/67447840/200093500-325d52c0-365e-4bef-9f63-3be736c917cb.gif "React sidebar with dropdown menu")
